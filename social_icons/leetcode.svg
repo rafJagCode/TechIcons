@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="40"
+   height="47.616383"
+   viewBox="0 0 40 47.616383"
+   role="img"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="leetcode.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="4.185"
+     inkscape:cx="-77.538829"
+     inkscape:cy="15.770609"
+     inkscape:window-width="1904"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">LeetCode icon</title>
+  <path
+     d="m 28.136908,35.572716 -5.351191,5.172617 c -0.9246,0.926601 -2.204367,1.313501 -3.617064,1.313501 -1.4127,0 -2.692467,-0.3869 -3.619047,-1.313501 L 6.9543678,32.088587 C 6.0277677,31.162 5.5615009,29.80684 5.5615009,28.392158 c 0,-1.414684 0.4662668,-2.69246 1.3928669,-3.619048 l 8.5694452,-8.690478 c 0.9266,-0.926587 2.232133,-1.279763 3.64484,-1.279763 1.4127,0 2.692467,0.386903 3.617064,1.313493 l 5.351191,5.170636 c 1.019834,1.021827 2.708334,0.98611 3.769844,-0.0754 1.0615,-1.063494 1.097234,-2.751984 0.07733,-3.771826 l -5.176541,-5.230156 a 10.029764,10.029764 0 0 0 -4.85119,-2.6527785 l 4.89484,-4.9662705 c 1.023811,-1.0198415 0.988097,-2.7103181 -0.07341,-3.77182631 -1.061507,-1.06150784 -2.751984,-1.09523818 -3.77381,-0.0753967 L 2.9642872,20.785014 C 1.0178568,22.733427 0,25.421919 0,28.394142 c 0,2.972224 1.0178668,5.744047 2.9643005,7.688494 l 8.6250015,8.652778 c 1.946434,1.942467 4.636904,2.880967 7.607145,2.880967 2.970233,0 5.660714,-1.015867 7.609127,-2.9643 l 5.176575,-5.232145 c 1.019833,-1.019833 0.984133,-2.708333 -0.07733,-3.76984 -1.0615,-1.0615 -2.75,-1.097234 -3.76786,-0.07733 z m 9.343258,-9.761907 H 17.351193 c -1.392867,0 -2.519834,1.198413 -2.519834,2.670633 0,1.472224 1.127,2.670634 2.519834,2.670634 H 37.480166 C 38.871033,31.152076 40,29.953663 40,28.481442 40,27.009219 38.871033,25.810809 37.480166,25.810809 Z"
+     id="path4"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.98413" />
+  <metadata
+     id="metadata847">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>LeetCode icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
