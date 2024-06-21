@@ -24,7 +24,7 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="0.43020834"
-     inkscape:cx="377.72397"
+     inkscape:cx="380.04842"
      inkscape:cy="256.8523"
      inkscape:window-width="1904"
      inkscape:window-height="1008"
@@ -37,7 +37,7 @@
      id="g4"
      clip-path="url(#clipPath372)"
      inkscape:path-effect="#path-effect376"
-     transform="matrix(1.0034842,0,0,1.1394159,4.0140934,0)"
+     transform="matrix(1.0034842,0,0,1.279927,4.0140934,0)"
      style="display:inline">
     <path
        width="1440"
@@ -67,8 +67,7 @@
        lpeversion="1"
        inverse="true"
        flatten="false"
-       hide_clip="false"
-       />
+       hide_clip="false" />
     <filter
        id="filter0_d_1_291"
        x="-4"
@@ -146,11 +145,4 @@
          d="M -9,-5 H 1449 V 584 H -9 Z m -23.357795,559.38257 c -2.999691,0 -5.414605,2.41491 -5.414605,5.4146 v 156.53157 c 0,2.99969 2.414914,5.41461 5.414605,5.41461 H 1472.3578 c 2.9997,0 5.4146,-2.41492 5.4146,-5.41461 V 559.79717 c 0,-2.99969 -2.4149,-5.4146 -5.4146,-5.4146 z" />
     </clipPath>
   </defs>
-  <rect
-     style="display:inline;fill:#121120;fill-opacity:1;stroke-width:0.366611;stroke-linecap:square;stroke-miterlimit:0"
-     id="rect6079"
-     width="1440"
-     height="107.6683"
-     x="0"
-     y="566.82666" />
 </svg>
