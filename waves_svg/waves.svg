@@ -24,7 +24,7 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="0.43020834"
-     inkscape:cx="380.04842"
+     inkscape:cx="382.37288"
      inkscape:cy="256.8523"
      inkscape:window-width="1904"
      inkscape:window-height="1008"
@@ -41,16 +41,16 @@
      style="display:inline">
     <path
        width="1440"
-       height="571"
+       height="551.56946"
        fill="url(#pattern0_1_291)"
        shape-rendering="crispEdges"
        id="rect2"
-       d="M -9,-5 H 1431 V 566 H -9 Z"
+       d="M -9,-5 H 1431 V 546.56946 H -9 Z"
        sodipodi:type="rect"
        x="-9"
        y="-5"
        inkscape:transform-center-x="19.757869"
-       inkscape:transform-center-y="3.486683"
+       inkscape:transform-center-y="3.3679311"
        style="display:inline;fill:url(#pattern6073)" />
   </g>
   <defs
@@ -59,7 +59,7 @@
        inkscape:collect="always"
        xlink:href="#pattern0_1_291"
        id="pattern6073"
-       patternTransform="translate(-8.9999981,-5.0000004)" />
+       patternTransform="matrix(1,0,0,0.96597132,-8.9999981,-5.0000004)" />
     <inkscape:path-effect
        effect="powerclip"
        id="path-effect376"
